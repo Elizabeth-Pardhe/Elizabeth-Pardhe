@@ -6,8 +6,7 @@
 ### *Minor*: Business
 ### *Certificate*: Cross-Sector Leadership 
 
-## LinkedIn: 
-[LinkedIn](https://www.linkedin.com/in/elizabeth-pardhe)
+## [LinkedIn](https://www.linkedin.com/in/elizabeth-pardhe)
 
 
 <!--
