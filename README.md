@@ -1,12 +1,13 @@
-## About Me
-
+# About Me
+---
 ## Hey there! My name is Elizabeth Pardhe - welcome to my GitHub! :)
-## - Majors: Data Science and Economics 
-## - Minor: Business
-## - Certificate: Cross-Sector Leadership 
-
+Majors: Data Science and Economics 
+Minor: Business
+Certificate: Cross-Sector Leadership 
+---
 ## LinkedIn: 
-https://www.linkedin.com/in/elizabeth-pardhe
+[LinkedIn](https://www.linkedin.com/in/elizabeth-pardhe)
+
 
 <!--
 **Elizabeth-Pardhe/Elizabeth-Pardhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
