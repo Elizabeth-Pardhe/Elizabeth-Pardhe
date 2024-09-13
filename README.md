@@ -1,9 +1,9 @@
 # About Me
 
-## Hey there! My name is Elizabeth Pardhe - welcome to my GitHub! :)
-### Majors: Data Science and Economics 
-### Minor: Business
-### Certificate: Cross-Sector Leadership 
+## Hey there, my name is Elizabeth Pardhe - welcome to my GitHub! :)
+### *Majors*: Data Science and Economics 
+### *Minor*: Business
+### *Certificate*: Cross-Sector Leadership 
 
 ## LinkedIn: 
 [LinkedIn](https://www.linkedin.com/in/elizabeth-pardhe)
