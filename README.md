@@ -1,4 +1,4 @@
-# About Me
+🌻 # About Me 🌻
 
 ### Hey there, my name is Elizabeth Pardhe, and I am a sophomore at Barrett, The Honors College at Arizona State University. Welcome to my GitHub! :)
 
