@@ -7,7 +7,7 @@
 ### *Certificate*: Cross-Sector Leadership 
 
 ## [LinkedIn](https://www.linkedin.com/in/elizabeth-pardhe)
-
+ 
 
 <!--
 **Elizabeth-Pardhe/Elizabeth-Pardhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
