@@ -7,6 +7,9 @@
 ### *Certificate*: Cross-Sector Leadership 
 
 ## [LinkedIn](https://www.linkedin.com/in/elizabeth-pardhe)  
+
+## Work Experience:
+### I've been with The Data Mine for the past two years and worked on projects ranging from creating ML models to predict Alzheimers using mRNA data to create NLPs to analyze and identify bias in large scale text datasets.
  
 
 <!--
